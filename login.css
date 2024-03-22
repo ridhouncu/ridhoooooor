@@ -1,0 +1,25 @@
+.login-box{
+    padding: 20px;
+    text-align: center;
+    height: 490px;
+    width: 460px;
+    border-style:double ;
+    margin: 0;
+}
+
+.yaa{
+    padding-left: 33%;
+}
+
+.textbox{
+    padding: 25px;   
+}
+
+input[type=text],
+input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+
+    box-sizing: border-box;
+  }

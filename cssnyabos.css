@@ -1,0 +1,28 @@
+  .carousel-inner {
+    padding-top: 7vh;
+    height: 100vh;
+  }
+  .aboutus {
+    padding-top: 7vh;
+    padding-bottom: 6vh;
+    background-color: #ebebeb;
+  }
+  .product{
+    padding-top: 8vh;
+    padding-bottom: 8vh;
+  }
+  .contactus {
+    padding-top: 8vh;
+    padding-bottom: 8vh;
+    background-color: #ebebeb;
+  }
+  .navbar {
+    position: fixed;
+    z-index: 9999;
+    width: 100%;
+  }
+  
+  .feedback{
+    padding-top: 8vh;
+    padding-bottom: 8vh;
+  }
